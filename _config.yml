@@ -29,7 +29,7 @@ lang: en-GB # Set the site language
 title: "<Some economics website placeholder>" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "This is an economics website placeholder" # Site description and default description, also used in jekyll-seo-tag
-url: "https://crstnn.github.io/jekyll-alembic-theme-poc/" # Site url, also used in jekyll-seo-tag
+url: "https://crstnn.github.io/jekyll-alembic-theme-poc" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/crstnn/jekyll-alembic-theme-poc"
 
