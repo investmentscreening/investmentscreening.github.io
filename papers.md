@@ -1,5 +1,5 @@
 ---
-title: About this website
+title: Research Papers
 feature_text: |
     ## Website
     An introduction (feature text)

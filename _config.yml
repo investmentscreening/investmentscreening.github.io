@@ -41,3 +41,11 @@ permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 navigation_header:
   - title: Home
     url: /
+  - title: Papers
+    url: /papers
+  - title: Researchers
+    url: /researchers
+
+navigation_footer:
+  - title: ""
+    url: ""
