@@ -23,26 +23,20 @@ plugins:
 
 paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
-jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
-twitter:
-  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
-author: DavidDarnes # jekyll-seo-tag > default author
-social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
-  links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/DavidDarnes
-    - https://www.facebook.com/daviddarnes
-    - https://www.linkedin.com/in/daviddarnes
-    - https://github.com/daviddarnes
+
+encoding: utf-8 # Make sure the encoding is right
+lang: en-GB # Set the site language
+title: "<Some economics website placeholder>" # Site name or title, also used in jekyll-seo-tag
+logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+description: "This is an economics website placeholder" # Site description and default description, also used in jekyll-seo-tag
+url: "https://crstnn.github.io/jekyll-alembic-theme-poc/" # Site url, also used in jekyll-seo-tag
+baseurl: ""
+repo: "https://github.com/crstnn/jekyll-alembic-theme-poc"
 
 sass:
   style: compressed # Style compression
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 
-
-encoding: utf-8 # Make sure the encoding is right
-lang: en-GB # Set the site language
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
 
 navigation_header:
   - title: Home
