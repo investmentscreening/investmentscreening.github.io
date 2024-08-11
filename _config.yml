@@ -26,12 +26,12 @@ paginate_path: blog/page:num # jekyll-paginate > blog page
 
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Investments Screening" # Site name or title, also used in jekyll-seo-tag
+title: "Investment Screening" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/icon.png" # Site logo, also used in jekyll-seo-tag
 description: "Balancing National Security and Economic Interests in Foreign Investment" # Site description and default description, also used in jekyll-seo-tag
-url: "https://crstnn.github.io/investments-screening" # Site url, also used in jekyll-seo-tag
+url: "https://https://investmentscreening.github.io" # Site url, also used in jekyll-seo-tag
 #baseurl: ""
-repo: "https://github.com/crstnn/investments-screening"
+repo: "https://https://github.com/investmentscreening/investmentscreening.github.io"
 
 sass:
   style: compressed # Style compression
