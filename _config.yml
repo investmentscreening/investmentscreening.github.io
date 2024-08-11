@@ -32,6 +32,7 @@ description: "Balancing National Security and Economic Interests in Foreign Inve
 url: "https://https://investmentscreening.github.io" # Site url, also used in jekyll-seo-tag
 #baseurl: ""
 repo: "https://https://github.com/investmentscreening/investmentscreening.github.io"
+google_analytics: "G-FGRTYR2V1S"
 
 sass:
   style: compressed # Style compression
