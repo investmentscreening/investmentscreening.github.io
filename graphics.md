@@ -1,7 +1,6 @@
 ---
-title: ""
-feature_text: |
-    ## Graphics
-feature_image: "https://picsum.photos/2600/800?image=500"
-excerpt: "A research project investigating balancing national security and economic interests in foreign investment"
+layout: default
+title: Investment Screening | Graphics
 ---
+
+## Graphics

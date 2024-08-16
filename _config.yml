@@ -1,29 +1,3 @@
-remote_theme: daviddarnes/alembic@4.1.0
-
-exclude:
-  - README.md
-  - LICENSE
-  - CNAME
-  - Gemfile
-  - Gemfile.lock
-  - alembic-jekyll-theme.gemspec
-  - .jekyll-cache
-
-# Set plugins
-plugins:
-  - jekyll-sitemap
-  - jekyll-mentions
-  - jekyll-paginate
-  - jekyll-seo-tag
-  - jekyll-redirect-from
-  - jekyll-feed
-  - jekyll-commonmark
-  - jekyll-include-cache
-  - jemoji
-
-paginate: 2 # jekyll-paginate > items per page
-paginate_path: blog/page:num # jekyll-paginate > blog page
-
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Investment Screening" # Site name or title, also used in jekyll-seo-tag
@@ -35,27 +9,20 @@ repo: "https://https://github.com/investmentscreening/investmentscreening.github
 google_analytics: "G-FGRTYR2V1S"
 
 sass:
-  style: compressed # Style compression
-permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+    style: compressed
 
+markdown: kramdown
+highlighter: rouge
 
-navigation_header:
+navigation:
   - title: Home
     url: /
   - title: Research
-    url: /research/
+    url: /research
   - title: Our Team
-    url: /our-team/
+    url: /our-team
 #  - title: Data
-#    url: /data/
+#    url: /data
 #  - title: Graphics
-#    url: /graphics/
+#    url: /graphics
 
-navigation_footer:
-  - title: ""
-    url: ""
-
-
-favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  16: '/assets/logos/favicons/favicon-16x16.png'
-  32: '/assets/logos/favicons/favicon-32x32.png'
