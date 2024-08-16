@@ -46,6 +46,10 @@ navigation_header:
     url: /research/
   - title: Our Team
     url: /our-team/
+#  - title: Data
+#    url: /data/
+#  - title: Graphics
+#    url: /graphics/
 
 navigation_footer:
   - title: ""
