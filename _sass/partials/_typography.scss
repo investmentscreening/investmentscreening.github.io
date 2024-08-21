@@ -68,6 +68,7 @@ h3, .h3 {
 
 @media (min-width: 56.25em) {
   h3, .h3 {
+    font-weight: 300;
     font-size: 1.75em; // 1.75x body copy size = 28px
     line-height: 1.25;
   }

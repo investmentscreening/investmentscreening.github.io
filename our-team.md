@@ -3,7 +3,7 @@ layout: default
 title: Investment Screening | Our Team
 ---
 
-## Our Team
+### Our Team
 
 
 [Phillip McCalman](https://sites.google.com/site/pmccalman/)

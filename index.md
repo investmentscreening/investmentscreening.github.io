@@ -3,9 +3,9 @@ layout: default
 title: Investment Screening | About
 ---
 
-#### About
+### About
 
-## Balancing national security and <br> economic Interests in foreign investment
+## Balancing national security and economic interests in foreign investment
 
 We aim to identify the nature, extent and causes of the growing divergence between countries’ policies on inward foreign 
 investment and their increasing links to national security.  Our collaboration combines insights from political science, 
