@@ -55,8 +55,10 @@ h2, .h2 {
 }
 
 h3, .h3 {
+  font-weight: 300;
   font-size: 1.375em; // 1.375x body copy size = 22px
   line-height: 1.13636364; //25px / 22px
+  padding: 1.5em 0 1em 0;
 }
 
 @media (min-width: 43.75em) {
@@ -68,7 +70,6 @@ h3, .h3 {
 
 @media (min-width: 56.25em) {
   h3, .h3 {
-    font-weight: 300;
     font-size: 1.75em; // 1.75x body copy size = 28px
     line-height: 1.25;
   }
