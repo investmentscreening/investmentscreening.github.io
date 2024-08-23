@@ -5,7 +5,6 @@ title: Investment Screening | Research
 
 ### Research
 
-
 #### Published
 
 McCalman, P., Puzzello, L., Voon, T., and Walter, A., ‘[Inward Foreign Investment Screening in Australia: Development and Implications](https://ssrn.com/abstract=4290115)’, 2024.  In: Springer Studies in Law & Geoeconomics. Springer, Cham. [https://doi.org/10.1007/17280_2024_33](https://doi.org/10.1007/17280_2024_33)
