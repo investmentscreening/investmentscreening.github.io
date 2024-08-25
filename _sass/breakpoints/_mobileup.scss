@@ -62,7 +62,7 @@ a {
 	color: $link-color;
 
 	&:hover {
-		color: darken($link-color, 15%);
+		color: darken($link-color, 25%);
 	}
 }
 
@@ -288,6 +288,19 @@ DARK THEME STYLING
 ***************/
 
 @media (prefers-color-scheme: dark) {
+
+	/***************
+	LINK STYLING
+	***************/
+
+	a {
+		color: $secondary-color;
+
+		&:hover {
+			color: lighten($secondary-color, 25%);
+		}
+	}
+
 	body {
 		background-color: $black;
 		color: white;
