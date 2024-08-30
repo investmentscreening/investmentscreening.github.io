@@ -1,8 +1,10 @@
 <div class="footer">
 	<div class="container">
 		<p class="copy">
-			&copy; {{ site.time | date: '%Y' }}
-			<a href="https://investmentscreening.github.io/">Investment Screening</a>. ARC number: DP 200100639
+			&copy; {{ site.time | date: '%Y' }}&nbsp;
+			{%- if site.footer -%}
+				{{ site.footer | markdownify | remove: '<p>' | remove: '</p>' }}
+			{%- endif -%}
 		</p>
 
 		<div class="footer-links">
