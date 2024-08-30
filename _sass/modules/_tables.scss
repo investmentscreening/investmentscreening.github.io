@@ -39,6 +39,7 @@ th {
 .team-table th, .team-table td {
 	text-align: center;
 	vertical-align: top;
+	width: calc(100% / 2); // denominator based on 2-column team tables
 }
 
 .team-table img {

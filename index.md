@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Investment Screening | About
+title: Investment Screening
 ---
 
 ### About
