@@ -33,4 +33,7 @@ content = "_Abstract:_ Significant changes to Australia’s foreign investment s
 
 #### In Progress
 
-...
+{% include_relative _layouts/_elements/accordion.html
+title = "McCalman, P. and Puzzello, L.FDI and Investment Screening Policy"
+content = "_Abstract:_ Efforts to restrict Inward FDI (IFDI) have traditionally been modest. Recently there has been a dramatic increase in the number of countries screening IFDI. The costs imposed by screening raise concerns about the consequences for IFDI. In this paper, we leverage a structural gravity framework to quantify the effect of screening on the level of FDI in a host country, and on the distribution of IFDI across countries. We address these issues from three perspectives.  First, partial equilibrium estimates suggest that screening reduces IFDI by 35-37%, on average. Second, general equilibrium estimates reveal that the unilateral adoption of screening reduces the aggregate IFDI of a new screener by, on average, 10%, but the impact varies from -0.2% to -33%. Finally, we consider a world where all non-screening hosts adopt screening. We find that IFDI is reduced on average by 11.4% for new screening hosts but this effect differs across hosts ranging from -0.2% to -34%. The impact on bilateral IFDI from the adoption of screening is even more varied, with the largest increase recorded as 6% while the largest drop is 64%. Third-country effects are also pronounced, with bilateral IFDI changes for bystanders ranging from -50% to 7%."
+%}
