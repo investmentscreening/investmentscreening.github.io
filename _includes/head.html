@@ -5,6 +5,9 @@
 	<meta name="description" content="{{ site.description }}" />
 	<title>{{ page.title }}</title>
 
+	<!-- Favicon -->
+	<link rel="icon" type="image/x-icon" href="{{ '/assets/img/favicon.ico' | relative_url }}"/>
+
 	<!-- Open Graph Meta -->
 	<meta content="{{ site.title }}" property="og:site_name" />
 	{%- if page.title -%}
@@ -64,9 +67,6 @@
 		content="{{ '/assets/img/touring.jpg' | absolute_url }}"
 	/>
 	{%- endif -%}
-
-	<!-- Favicon -->
-	<link rel="icon" type="image/x-icon" href="{{ '/assets/img/favicon.ico' | relative_url }}"/>
 
 	<!-- Come and get me RSS readers -->
 	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}"
