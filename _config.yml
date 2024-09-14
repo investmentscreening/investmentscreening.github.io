@@ -2,7 +2,7 @@ encoding: utf-8
 lang: en-GB
 title: "Investment Screening" # Site name or title
 logo: "/assets/logos/icon.png" # Site logo
-description: "A research project showcasing interdisciplinary research on the impact of screening inward FDI for national security, combining insights from economics, political science, and law." # Site description and default description (meta-description)
+description: "A project that explores the impact of screening inward FDI for national security, combining insights from economics, law, and political science." # Site description and default description (meta-description)
 url: "https://https://investmentscreening.github.io" # Site url
 #baseurl: ""
 repo: "https://https://github.com/investmentscreening/investmentscreening.github.io"
