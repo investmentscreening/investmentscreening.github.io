@@ -29,3 +29,8 @@ navigation:
 
 
 footer: "[Investment Screening](https://investmentscreening.github.io/). ARC number: DP 200100639. UoM ethics approval number: 2021-22546-21613-3."
+
+exclude:
+  - instructions
+  - .jekyll-cache
+  - LICENSE
