@@ -23,7 +23,7 @@ title: Investment Screening | Our Team
 <div markdown="1">
 
 |-------|--------|
-| ![Nhung Nguyen Thi](/assets/img/headshots/nhung_headshot.jpg) <br> Nhung Nguyen Thi, PhD candidate, Melbourne Law School |  |
+| ![Nhung Nguyen Thi](/assets/img/headshots/nhung_headshot.jpg) <br> [Nhung Nguyen Thi](https://law.unimelb.edu.au/students/grd/students/thi-nhung-nguyen), PhD candidate, Melbourne Law School | ![Atharva Deshmukh](/assets/img/headshots/atharva_headshot.jpg) <br> [Atharva Deshmukh](https://www.linkedin.com/in/atharva-deshmukh-897233115), PhD candidate, University of Melbourne |
 
 </div>
 </div>
