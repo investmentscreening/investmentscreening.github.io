@@ -66,7 +66,7 @@ As for the rest of the page it's in standard markdown - so edit as per usual.
     ```
     
     The outer `div`s are necessary for specific table formatting that relates to the particular table formatting for this page.
-    The part enclosed in the div is a Markdown table, its formatting can be seen [here](https://www.markdownguide.org/extended-syntax/) (from the aforementioned Markdown Guide)
+    The part enclosed in the div is a Markdown table, its formatting can be seen [here](https://www.markdownguide.org/extended-syntax/) (from the aforementioned Markdown guide)
 
     Note that the actual table in the file makes use of [Markdown's image linking](https://www.markdownguide.org/basic-syntax/) (again from the aforementioned Markdown guide).
     To add further headshots you would add them into the `assets` folder (`/assets/img/headshots`). 
