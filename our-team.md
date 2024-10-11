@@ -24,7 +24,7 @@ title: Investment Screening | Our Team
 
 |-------|--------|
 | ![Thi Nhung Nguyen](/assets/img/headshots/nhung_headshot.jpg) <br> [Thi Nhung Nguyen](https://law.unimelb.edu.au/students/grd/students/thi-nhung-nguyen), PhD candidate, Melbourne Law School | ![Atharva Deshmukh](/assets/img/headshots/atharva_headshot.jpg) <br> [Atharva Deshmukh](https://www.linkedin.com/in/atharva-deshmukh-897233115), PhD candidate, University of Melbourne |
-| ![Dean Merriman](/assets/img/headshots/dean_headshot.jpg) <br> [Dean Merriman](https://www.greenslist.com.au/s/barrister/00396000001k801AAA/dean-merriman), Barrister, Green List Barristers | |
+| ![Dean Merriman](/assets/img/headshots/dean_headshot.jpg) <br> [Dean Merriman](https://www.greenslist.com.au/s/barrister/00396000001k801AAA/dean-merriman), Barrister, Victorian Bar | |
 
 </div>
 </div>
