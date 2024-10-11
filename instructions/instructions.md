@@ -95,6 +95,8 @@ This is why the recommendation is to edit locally first, see the changes before 
 Luckily a lot of the Ruby ecosystem is installed on MAC so you should be able to execute the following from the _terminal_.
 Don't forget to navigate to the directory the repository is in. Execute the following commands on by one.
 
+If all else fails you may choose to install [Homebrew](https://brew.sh/) (MACOS package/dependency manager). Install a recent version of Ruby and then continue follow the steps.
+
 ### On Windows
 
 Download the latest Ruby from https://rubyinstaller.org/
